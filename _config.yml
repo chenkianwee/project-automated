@@ -1,6 +1,7 @@
-baseurl: "/aeco-automation/"
+# baseurl: "/project-automation/"
+baseurl: "/"
 permalink: pretty
-title: 'AECO-Automation'
+title: 'project_automation'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
