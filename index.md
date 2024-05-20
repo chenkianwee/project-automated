@@ -2,8 +2,8 @@
 title: project_automation
 layout: home
 description: project_automation
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+intro_image: "images/illustrations/ai-generated.jpg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---

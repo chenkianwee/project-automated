@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+project_automation is currently a one-person team that has a well-connected professional network when the project requires additional expertise. 

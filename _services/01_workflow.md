@@ -1,13 +1,16 @@
 ---
-title: "Business Advisory"
-date: 2018-12-28T15:14:39+10:00
-weight: 4
+title: "Workflow Automation"
+date: 2018-11-18T12:33:46+10:00
+weight: 1
 ---
 
-Business advisory is the final tier of the accounting pyramid.
+Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 <!--more-->
 
-Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
+clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
+Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
+Orontes Erysicthona dona, est per Achille viridi draconis cultis mota m
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
