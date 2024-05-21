@@ -1,15 +1,12 @@
 ---
-title: "IoT Sensor Development"
-date: 2018-12-28T15:14:39+10:00
-weight: 4
+title: "Building Automation (Coming Soon)"
+date: 2019-03-28T15:14:54+10:00
+weight: 10
 ---
 
-<!-- Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit, -->
-<!--more-->
-
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota m
+<!-- Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
+de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
+crimen habet Priamum nec. -->
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

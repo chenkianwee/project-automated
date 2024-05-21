@@ -1,7 +1,7 @@
 # baseurl: "/project-automation/"
 baseurl: "/"
 permalink: pretty
-title: 'project_automation'
+title: 'project_automated'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -18,10 +18,26 @@ collections:
   services:
     output: true
     sort_by: weight
+  softwares:
+    output: true
+    sort_by: weight
+  learnings:
+    output: true
+    sort_by: weight
   team:
     output: true
 
 defaults:
+  - scope:
+      path: ""
+      type: "softwares"
+    values:
+      layout: "software"
+  - scope:
+      path: ""
+      type: "learnings"
+    values:
+      layout: "learning"
   - scope:
       path: ""
       type: "services"

@@ -1,12 +1,13 @@
 ---
-title: "IoT Sensor Development"
-date: 2018-12-28T15:14:39+10:00
+title: "gis3d"
+date: 2018-11-18T12:33:46+10:00
 weight: 4
 ---
 
-<!-- Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit, -->
+Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 <!--more-->
 
+Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
 Orontes Erysicthona dona, est per Achille viridi draconis cultis mota m
