@@ -1,27 +1,27 @@
 [
   {
-    "title": "Tailored-Made Software Just for Your Practice",
-    "description": "Software Developed with Your Practice in Mind",
+    "title": "Automation Software Libraries",
+    "description": "Enable Rapid Development of Project Specific Software",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/blank.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "No Vendor Lock-in",
-    "description": "Open Source Software, Hardware and Open Standards",
+    "title": "Open Source Software, Hardware and Standards",
+    "description": "No Vendor Lock-in",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/blank.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "No Expensive Licensing or Subscriptions",
-    "description": "Software Belongs to Your Practice",
+    "title": "Data Transparency and Software Freedom",
+    "description": "No Expensive Licensing or Subscription",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/blank.svg",
       "width": 80,
       "height": 80
     }

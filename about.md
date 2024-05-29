@@ -4,8 +4,13 @@ layout: page
 description: About
 bodyClass: page-about
 ---
+Kian Wee Chen research interest lies in the development and use of digitals tools to support the integrative design process for the built environment. With his experience so far, he plans to further his research of facilitating integrative design in multidisciplinary design teams through developing algorithms and modular tools. He aims to support multidisciplinary collaborations in the design teams by enabling timely access to data and models for analysing and designing the built environment. 
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
+His research specifically looks at sensors and computational algorithms. User-friendly versions of these tools and processes can help designers create and measure prototypes for a more energy-efficient built environment, instead of focusing on technical troubleshooting. Kian Wee hopes to help designers gain better access to advanced building technologies and to encourage their application in the design of a holistic energy solution for the built environment.
+
+<a href="https://chenkianwee.github.io/" target="_blank">Click here for my full CV </a>
+
+<!-- Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
@@ -84,4 +89,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
     - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->

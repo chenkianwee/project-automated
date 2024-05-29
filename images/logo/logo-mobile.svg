@@ -23,8 +23,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="5.3425846"
-     inkscape:cx="27.514773"
-     inkscape:cy="56.714123"
+     inkscape:cx="27.701948"
+     inkscape:cy="56.901298"
      inkscape:window-width="1850"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -35,15 +35,20 @@
      id="title1">logo-mobile</title>
   <text
      xml:space="preserve"
-     style="font-size:24px;line-height:1.1;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';fill:#000000;stroke-width:1.51181"
-     x="3.3339844"
-     y="34.763672"
+     style="font-size:24px;line-height:0.9;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1.51181"
+     x="27.46875"
+     y="23.887501"
      id="text1"><tspan
        sodipodi:role="line"
-       x="3.3339844"
-       y="34.763672"
+       x="27.46875"
+       y="23.887501"
        id="tspan2"
-       style="font-size:24px">Auto</tspan></text>
+       style="font-size:24px;line-height:0.9;text-align:center;text-anchor:middle">Proj</tspan><tspan
+       sodipodi:role="line"
+       x="27.46875"
+       y="45.487499"
+       style="font-size:24px;line-height:0.9;text-align:center;text-anchor:middle"
+       id="tspan1">Auto</tspan></text>
   <rect
      style="fill:none;stroke-width:2.012;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
      id="rect3"

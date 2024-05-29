@@ -1,27 +1,27 @@
 main:
   - name: "E-Learning"
     url: "/learnings/"
-    weight: 2
+    weight: 4
   - name: "Software"
     url: "/softwares/"
     weight: 3
-  - name: "Services"
-    url: "/services/"
-    weight: 4
-  - name: "Team"
-    url: "/team/"
-    weight: 5
+  - name: "Expertise"
+    url: "/expertise/"
+    weight: 2
+  # - name: "Team"
+  #   url: "/team/"
+  #   weight: 5
   - name: "About"
     url: "/about/"
-    weight: 6
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 7
+    weight: 6
 
 footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2
+  # - name: "Contact"
+  #   url: "/contact/"
+  #   weight: 2

@@ -7,4 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Open Source Automation Software
+# Open Source Libraries and Software
+
+These tools will enable the rapid development of project-specific automation software to increase your productivity!

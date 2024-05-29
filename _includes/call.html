@@ -10,6 +10,20 @@
       </a>
     </div>
     {% endif %}
+    {% if site.data.contact.linkedin %}
+    <div class="call-linkedin"><strong>Linkedin </strong>
+      <a href="{{ site.data.contact.linkedin }}">
+        [Profile]
+      </a>
+    </div>
+    {% endif %}
+    {% if site.data.contact.researchgate %}
+    <div class="call-researchgate"><strong>Researchgate</strong>
+      <a href="{{ site.data.contact.researchgate }}">
+        [Profile]
+      </a>
+    </div>
+    {% endif %}
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">

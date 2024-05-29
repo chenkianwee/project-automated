@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Online Learning
 
-Follow our tutorials and lessons to automate your tasks!
+Resources such as guides and tutorials to help you learn the right tools to automate your tasks!
