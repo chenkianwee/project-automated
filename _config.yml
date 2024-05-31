@@ -1,5 +1,5 @@
-baseurl: "projectautomated.com/"
-# baseurl: "/"
+# baseurl: "projectautomated.com/"
+baseurl: "/"
 permalink: pretty
 title: 'project_automated'
 
