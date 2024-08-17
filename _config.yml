@@ -14,7 +14,7 @@ home:
   limit_services: 6
 
 collections:
-  services:
+  workflows:
     output: true
     sort_by: weight
   softwares:
@@ -39,9 +39,9 @@ defaults:
       layout: "learning"
   - scope:
       path: ""
-      type: "services"
+      type: "workflows"
     values:
-      layout: "service"
+      layout: "workflow"
   - scope:
       path: ""
       type: "team"

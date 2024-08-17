@@ -1,15 +1,6 @@
 [
   {
-    "title": "Automation Software Libraries",
-    "description": "Enable Rapid Development of Project Specific Software",
-    "image": {
-      "url": "images/features/libraries.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Open Source Software, Hardware and Standards",
+    "title": "Open Source Software, Standards and Hardware",
     "description": "No Vendor Lock-in",
     "image": {
       "url": "images/features/opensource.svg",
@@ -22,6 +13,15 @@
     "description": "No Expensive Licensing or Subscription",
     "image": {
       "url": "images/features/transparent.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Python Software Libraries",
+    "description": "Enable Rapid Development of Project Specific Software",
+    "image": {
+      "url": "images/features/libraries.svg",
       "width": 80,
       "height": 80
     }

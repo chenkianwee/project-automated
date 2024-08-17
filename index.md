@@ -10,4 +10,6 @@ show_call_box: false
 
 # Project Automated
 
-Automating tasks in Architecture Design, Engineering Design, Construction and Building Operations (AECO). Automate all the repetitive tasks so you can focus on solving the real problem! This website provides you the resources to automate your task. Learn about the research on the AECO automation in the Expertise section, the practical skills required for acting upon the research in E-Learning, and the tools required for the automation in Software.
+Automating tasks in Architecture Design, Engineering Design, Construction and Building Operations. Automate all the repetitive tasks so you can focus on solving the real problem!
+
+Learn about the automated workflows. They are developed using Open-Source Software, Standards and Hardware. Learn them and you can adopt them in practice with minimal monetary cost!

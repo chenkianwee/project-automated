@@ -25,14 +25,14 @@ bodyClass: "page-home"
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
-      {% for service in site.services limit: limit %}
+      {% for workflow in site.workflows limit: limit %}
       <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+        <div class="workflow workflow-summary">
+          <div class="workflow-content">
+            <h2 class="workflow-title">
+              <a href="{{ workflow.url | relative_url }}">{{ workflow.title }}</a>
             </h2>
-            <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+            <p>{{ workflow.excerpt | markdownify | strip_html | truncate: 100 }}</p>
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "expertise" | relative_url }}">View All Expertise</a>
+        <a class="button button-primary" href="{{ "workflows" | relative_url }}">View All Workflows</a>
       </div>
     </div>
   </div>
