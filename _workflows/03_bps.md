@@ -6,8 +6,11 @@ weight: 3
 
 Understand the energy implications of your building design starting from the early stages.
 
+# E-Books
+**BIM for Performance-Based Design** - A guide book for performing Building Performance Simulation with OpenBIM standards. <a href="https://chenkianwee.github.io/bim4pbd" target="_blank">[Link]</a>
+
 # Software
-Python library to convert IFC to OpenStudio models. <a href="https://github.com/chenkianwee/ifc2osmod" target="_blank">[Github]</a>
+**ifc2osmod** - Python library to convert IFC to OpenStudio models. <a href="https://github.com/chenkianwee/ifc2osmod" target="_blank">[Github]</a>
 
 # Research
 - Aviv, D., *Chen, K.W.*, Teitelbaum, E., Sheppard, D., Pantelic, J., Rysanek, A., Meggers, F., (2021). ***A Fresh (Air) Look at Ventilation for COVID-19: Estimating the global energy savings potential of coupling natural ventilation with novel radiant cooling strategies***. Applied Energy 116848. <a href="https://doi.org/10.1016/j.apenergy.2021.116848" target="_blank">[DOI]</a>

@@ -6,11 +6,8 @@ weight: 5
 
 The use of Internet of Things (IoT) sensors to conduct research experiment.
 
-# Software
-Open source software stack for IoT sensing. 
- 
-- <a href="https://github.com/chenkianwee/yun2infinity" target="_blank">[Github]</a> 
-- <a href="https://chenkianwee.github.io/yun2infinity" target="_blank">[User Manual]</a>
+# E-Books
+**IoT4Design** - An IoT guide book for designers. Offer step-by-step instructions for applying IoT sensors in your design project. <a href="https://chenkianwee.github.io/iot4design" target="_blank">[Link]</a>
 
-# Works
-- A IoT guide book for designers. Offer step-by-step instructions for applying IoT sensors in your design project. <a href="https://chenkianwee.github.io/iot4design" target="_blank">[Link]</a>
+# Software
+**yun2infinity** - An open-source software stack for storing and visualizing time-series and 3D data. <a href="https://github.com/chenkianwee/yun2infinity" target="_blank">[Github]</a> <a href="https://chenkianwee.github.io/yun2infinity" target="_blank">[User Manual]</a>

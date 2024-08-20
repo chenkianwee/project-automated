@@ -6,7 +6,6 @@ weight: 2
 
 The use of an open standard for the exchange of data between domain experts.
 
-# Works
-
-- The use of FreeCAD as an authoring tool for OpenBIM exchange. <a href="https://chenkianwee.github.io/pbgdw/docs/03/06_fcbim.html" target="_blank">[Link]</a>
+# E-Books
+**BIM for Performance-Based Design** - A guide book for modeling and performing Building Performance Simulation with OpenBIM standards. <a href="https://chenkianwee.github.io/bim4pbd" target="_blank">[Link]</a>
 
