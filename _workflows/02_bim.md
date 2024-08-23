@@ -6,6 +6,9 @@ weight: 2
 
 The use of an open standard for the exchange of data between domain experts.
 
+# Getting Started
+----- In Construction -----
+
 # E-Books
 **BIM for Performance-Based Design** - A guide book for modeling and performing Building Performance Simulation with OpenBIM standards. <a href="https://chenkianwee.github.io/bim4pbd" target="_blank">[Link]</a>
 

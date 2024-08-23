@@ -6,6 +6,9 @@ weight: 5
 
 The use of Internet of Things (IoT) sensors to conduct research experiment.
 
+# Getting Started
+----- In Construction -----
+
 # E-Books
 **IoT4Design** - An IoT guide book for designers. Offer step-by-step instructions for applying IoT sensors in your design project. <a href="https://chenkianwee.github.io/iot4design" target="_blank">[Link]</a>
 
