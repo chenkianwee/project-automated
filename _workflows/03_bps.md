@@ -15,6 +15,4 @@ Understand the energy implications of your building design starting from the ear
 # Software
 **ifc2osmod** - Python library to convert IFC to OpenStudio models. <a href="https://github.com/chenkianwee/ifc2osmod" target="_blank">[Github]</a>
 
-# Research
-- *Chen K.W.*, Norford L (2017). ***Evaluating Urban Forms for Comparison Studies in the Massing Design Stage***. Sustainability, 9(6). <a href="https://doi.org/10.3390/su9060987" target="_blank">[DOI]</a>
 
