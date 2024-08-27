@@ -1,10 +1,10 @@
 ---
-title: "Open Performance-Based Generative Design"
+title: "Performance-Based Generative Design with Open-Source Software and Standards"
 date: 2018-12-28T15:14:39+10:00
 weight: 3
 ---
 
-The use of Open-Source Software and Standards to execute the process. 
+Empower your practice with access to state-of-the-art generative design methods with Open-Source Software and Standards
 
 The Performance-based generative design (PBGD) process uses optimization algorithms to automatically search for better designs based on two main inputs from the users; the solution space and the objective functions.
 
