@@ -1,7 +1,7 @@
 ---
 title: "Open Performance-Based Generative Design"
 date: 2018-12-28T15:14:39+10:00
-weight: 4
+weight: 3
 ---
 
 The use of Open-Source Software and Standards to execute the process. 

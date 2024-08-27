@@ -1,7 +1,7 @@
 ---
 title: "Rapid Software Development with geomie3d and pyqtgraph"
 date: 2019-03-28T15:14:54+10:00
-weight: 7
+weight: 5
 ---
 
 Develop project-specific 3D software using these libraries and the Python ecosystem.
