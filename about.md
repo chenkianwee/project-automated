@@ -4,11 +4,14 @@ layout: page
 description: About
 bodyClass: page-about
 ---
-Kian Wee Chen research interest lies in the development and use of digitals tools to support the integrative design process for the built environment. With his experience so far, he plans to further his research of facilitating integrative design in multidisciplinary design teams through developing algorithms and modular tools. He aims to support multidisciplinary collaborations in the design teams by enabling timely access to data and models for analysing and designing the built environment. 
 
-His research specifically looks at sensors and computational algorithms. User-friendly versions of these tools and processes can help designers create and measure prototypes for a more energy-efficient built environment, instead of focusing on technical troubleshooting. Kian Wee hopes to help designers gain better access to advanced building technologies and to encourage their application in the design of a holistic energy solution for the built environment.
+Small and emerging design firms are driven by creativity and vision, yet they often face the heavy burden of expensive software subscriptions. These costs drain resources, stifle innovation, and limit what they can achieve. But there’s a better way. By embracing Open-Source Software, firms can break free from the financial strain. Open-source tools like FreeCAD, QGIS, and OpenStudio offer the same capabilities as costly alternatives—without the hefty price tags. These tools empower firms to allocate resources where they matter most: on design, innovation, and growth.
 
-<a href="https://chenkianwee.github.io/" target="_blank">Click here for my full CV </a>
+No longer tied down by restrictive licenses, small firms can compete on a level playing field, take on ambitious projects, and fully realize their creative potential. Open-source is more than just software; it’s a movement that empowers designers to innovate, collaborate, and thrive. The struggle to pay for software should never hold back great ideas. With Open-Source Software, design firms can reclaim their freedom, fuel their creativity, and make their boldest visions a reality.
+
+<!-- Kian Wee Chen research interest lies in the development and use of digitals tools to support the integrative design process for the built environment. With his experience so far, he plans to further his research of facilitating integrative design in multidisciplinary design teams through developing algorithms and modular tools. He aims to support multidisciplinary collaborations in the design teams by enabling timely access to data and models for analysing and designing the built environment. 
+
+His research specifically looks at sensors and computational algorithms. User-friendly versions of these tools and processes can help designers create and measure prototypes for a more energy-efficient built environment, instead of focusing on technical troubleshooting. Kian Wee hopes to help designers gain better access to advanced building technologies and to encourage their application in the design of a holistic energy solution for the built environment. -->
 
 <!-- Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae

@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Effectively use geospatial data to understand the context and perform site analysis for a project.
+Harness the power of geospatial data to gain deeper insights and perform effective site analysis for your projects.
 
 # Getting Started 
 ----- In Construction -----

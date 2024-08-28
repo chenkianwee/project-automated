@@ -10,6 +10,8 @@ show_call_box: false
 
 # Project Automated
 
-Automating tasks in Architecture Design, Engineering Design, Construction and Building Operations. Automate all the repetitive tasks so you can focus on solving the real problem!
+Empower your practice with automated open workflows! Take control by automating key tasks in Architecture Design, Engineering, Construction, and Building Operations. Free yourself from repetitive tasks and focus on what truly matters—solving the real design challenges.
 
-Learn about the automated workflows. They are developed using Open-Source Software, Standards and Hardware. Learn them and you can adopt them in practice with minimal monetary cost!
+Adopt efficient workflows with minimal cost. The automated workflows are built using Open-Source Software, Standards, and Hardware. Learn them easily and integrate them into your practice without the burden of heavy costs.
+
+**Powering practices to achieve more with less.**

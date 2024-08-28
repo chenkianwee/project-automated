@@ -4,7 +4,7 @@ date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-The use of Internet of Things (IoT) sensors to conduct research experiment and effectively communicate your results with stakeholders through web-based technologies.
+Leverage IoT sensors to enhance your research and design experiments with cutting-edge data. Communicate your vision effectively using web-based visualization tools, ensuring stakeholders are fully engaged and informed.
 
 # Getting Started
 ----- In Construction -----

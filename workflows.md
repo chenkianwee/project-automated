@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Automated Workflows
 
-My expertise in AECO automation from a decade of research on the topic has led me to develop these workflows based on Open-Source Software and Standards.
+With over a decade of research in AECO automation, I have developed these workflows to empower you with the tools you need to succeed. Built on Open-Source Software and Standards, these workflows enable you to take control of your projects, streamline your processes, and unlock your full potential without the constraints of costly subscriptions.

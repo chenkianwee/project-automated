@@ -4,7 +4,9 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-Understand the energy implications of your building design starting from the early stages.
+Gain a competitive edge by understanding your building’s energy performance from the earliest stages of design.
+
+Understand the energy implications of your building design starting from the early stages. Seamlessly collaborate across domains using open standards for data exchange, enhancing your design’s precision and impact.
 
 # Getting Started
 ----- In Construction -----
