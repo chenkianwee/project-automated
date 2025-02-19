@@ -1,17 +1,16 @@
 main:
-
   - name: "Workflows"
     url: "/workflows/"
     weight: 1
+  - name: "Blog"
+    url: "/blogs/"
+    weight: 2
   - name: "About"
     url: "/about/"
-    weight: 2
+    weight: 3
   - name: "Contact"
     url: "/contact/"
-    weight: 3
-  # - name: "E-Learning"
-  #   url: "/learnings/"
-  #   weight: 3
+    weight: 4
   # - name: "Software"
   #   url: "/softwares/"
   #   weight: 4

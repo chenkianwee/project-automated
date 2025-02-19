@@ -1,7 +1,7 @@
 ---
 title: "Bill McDonald"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg"
 jobtitle: "Graphic Designer"
 linkedinurl: ""
 weight: 7

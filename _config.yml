@@ -17,31 +17,23 @@ collections:
   workflows:
     output: true
     sort_by: weight
-  softwares:
+  blogs:
     output: true
-    sort_by: weight
-  learnings:
-    output: true
-    sort_by: weight
+    # sort_by: weight
   team:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "softwares"
-    values:
-      layout: "software"
-  - scope:
-      path: ""
-      type: "learnings"
-    values:
-      layout: "learning"
-  - scope:
-      path: ""
       type: "workflows"
     values:
       layout: "workflow"
+  - scope:
+      path: ""
+      type: "blogs"
+    values:
+      layout: "blog"
   - scope:
       path: ""
       type: "team"
