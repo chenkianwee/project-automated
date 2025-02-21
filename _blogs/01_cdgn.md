@@ -1,13 +1,14 @@
 ---
 title: "Why Computational Designers Should Develop Open-Source Workflows"
-date: 2025-02-04T00:00:00-04:00
+date: 2025-02-19T00:00:00-04:00
 weight: 1
 ---
 Computational designers are architect/engineers who can program. They have domain expertise while possessing the computer skills to develop new workflows to support efficient project delivery.
 
 15 mins read\
 Written by Kian Wee Chen\
-Published on Feb 19th 2025   
+Published on Feb 19th 2025\
+Updated on Feb 20th 2025
 
 # Current Practice
 Computational designers develop workflows from the early design stages all the way to the construction stages. For example, these workflows can include 3D scanning the existing site, building performance simulations in the design stages and digital fabrications in the construction stages. There are even potentials for computational designers to extend beyond the construction stages and develop workflows for building operations with the growing market for smart buildings.
@@ -18,10 +19,17 @@ Currently, computational designers predominantly develop workflows based on a fe
 Open workflows will significantly reduce the cost of technology adoption in practice and especially in places that cannot afford these technologies. They are coincidentally located in the regions where rapid urbanization are taking place (e.g. Southeast Asia ...). **An open workflow at minimum uses open standards, and whenever possible prioritize the use of Free and Open Source Software (FOSS) and Free and Open Source Hardware (FOSH)).** This will allow the workflow to be shared and readily extended to include new technologies as they emerge.
 
 Open workflows allow other computational designers to readily improve and build upon it. As new improvements are made to the open workflow, the designer, industry and society stands to gain:
-1. Designer can reuse the improved open workflow for their own project
-2. Workflow will always be usable regardless of access to software. This means the workflow will truly belong to the designer.
-3. Small practices will be able to adopt these workflows as they can readily integrate the workflow into their current practice without the need to buy expensive licenses. This will likely create more job opportunities for computational designers. Currently, computational designers positions are limited to mainly bigger size companies.
-4. Society progresses as we improve the way we design our built environment. This is only possible with the use of open-source technologies where everyone can contribute and modify the workflow to suit their own needs.
+- **Designers**:
+    1. Designer can **reuse the improved open workflow for their own project**.
+    2. Workflow will always be usable regardless of access to software. This means the **open workflow will truly belong to the designer**.
+    3. This will likely **create more job opportunities for computational designers as smaller practices will be able to adopt these open workflows and readily integrate the it into their current practice without the need to buy expensive licenses**. Currently, computational designers positions are limited to mainly bigger size companies.
+- **Industry**:
+    1. Solo Practitioners & Small Studios (1-5 people)– Focused on bespoke, highly customized computational workflows, but constrained by software costs and limited resources. **Open workflows reduce financial barriers and foster collaboration.**
+    2. Medium-Sized Firms (5-50 people) – Computational designers streamline efficiency across projects, but interoperability and knowledge retention are key challenges. **Open workflows enable scalability and standardization.**
+    3. Large Multidisciplinary Firms (50+ people)– Often have dedicated R&D teams developing internal digital tools. **Open workflows ensure future-proofing, interoperability, and cross-discipline collaboration.**
+    4. Research & Academia– Experimental workflows push the boundaries of computational design, but **open workflows are crucial for accessibility, reproducibility, and bridging industry-academia gaps.**
+- **Society**:
+    1. Society progresses as we improve the way we design our built environment. This is only possible with **the use of open-source technologies where everyone can contribute and modify the workflow to suit their own needs**.
 
 # How to Develop Open Workflows
 **The question remains ‘Is it possible to develop open workflows using open standards, open-source software and open-source hardware?’ The answer to this question is YES!** In my opinion, the Architecture, Engineering, Construction and Operation (AECO) open-source software ecosystem has matured to a point where it is sufficiently reliable and manageable to develop open workflows upon it. 
@@ -51,7 +59,10 @@ You might ask why not write a connector in Speckle for OpenStudio Application so
 Then why not write an OSMod export for Speckle (speckle2osmod), so you can go from Revit → Speckle → OSMod. If I do this, I will need to maintain ifc2osmod and speckle2osmod for my workflow to remain open for Revit and FreeCAD, which will have overlapping functions with both libraries exporting to OSMod. If I do speckle2ifc and ifc2osmod, I do not repeat myself within the two libraries and each library serves a well-defined task. The latter case is conceptually clearer which makes it easier for maintaining the libraries.
 
 # Conclusion
-I gave a brief description of current practices of computational designers, where workflows are mainly developed using proprietary software and that prohibits open sharing. Open workflows will allow for open sharing. **At minimum open workflows uses open standards, and whenever possible prioritize the use of Free and Open Source Software (FOSS) and Free and Open Source Hardware (FOSH)**. There are many advantages such as it can be readily improved by the community, the designer can easily access and use the workflow wherever they work, smaller companies can readily adopt these workflows and create more job opportunities, and lastly the society benefits as these open workflows provide better ways for designing the built environment. However, are open workflows achievable with the current state of AECO open-source ecosystem? I demonstrated the feasibility with my own open workflow project. I hope that this article have convinced or at least raise awareness about what, why and how computational designers should develop open workflows. Thanks for reading the article and I look forward to <a href="https://www.linkedin.com/posts/kian-wee-chen-79b2b721_some-of-my-thoughts-on-why-computational-activity-7297856150010560512-CU4Z?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAR-VqcBI2WVhLSf-dcz1wsslwv9rVp1vYE" target="_blank">feedback and comments</a>.
+I gave a brief description of current practices of computational designers, where workflows are mainly developed using proprietary software and that prohibits open sharing. Open workflows will allow for open sharing. **At minimum open workflows uses open standards, and whenever possible prioritize the use of Free and Open Source Software (FOSS) and Free and Open Source Hardware (FOSH)**. There are many advantages such as it can be readily improved by the community, the designer can easily access and use the workflow wherever they work, smaller companies can readily adopt these workflows and create more job opportunities, and lastly the society benefits as these open workflows provide better ways for designing the built environment. However, are open workflows achievable with the current state of AECO open-source ecosystem? I demonstrated the feasibility with my own open workflow project. **Open workflows have the power to reshape computational design, making tools more accessible, workflows more adaptable, and knowledge more widely shared. By using open standards and open-source tools, we can democratize technology and empower designers worldwide.** What are your thoughts? Have you encountered challenges when developing open workflows? <a href="https://www.linkedin.com/posts/kian-wee-chen-79b2b721_some-of-my-thoughts-on-why-computational-activity-7297856150010560512-CU4Z?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAR-VqcBI2WVhLSf-dcz1wsslwv9rVp1vYE" target="_blank">Let’s continue the conversation in the comments</a>!
+
+# Acknowledgement
+Thanks Yazid for his insightful feedback on the role of computational designers in practices of different scales.
 
 # Resource
 - <a href="https://osarch.org/" target="_blank">OSArch</a>
