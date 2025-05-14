@@ -19,7 +19,7 @@ collections:
     sort_by: weight
   blogs:
     output: true
-    # sort_by: weight
+    sort_by: weight
   team:
     output: true
 
