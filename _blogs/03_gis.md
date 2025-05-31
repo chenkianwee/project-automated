@@ -1,5 +1,5 @@
 ---
-title: "Southeast Asia Building (SEAB) Magazine Inteview about GIS in Architectural Design"
+title: "Southeast Asia Building (SEAB) Magazine Inteview on the Use of GIS in Architectural Design"
 date: 2025-05-30T00:00:00-04:00
 weight: 1
 ---
@@ -11,3 +11,6 @@ My interview with SEAB about the potential advantages of using GIS in architectu
 ![image-title-here](/images/blogs/gis/seab3.png){:class="img-responsive"}
 
 I hope this post provides you some insights on the issue. What are your thoughts? <a href="https://www.linkedin.com/posts/kian-wee-chen-79b2b721_blog-activity-7334395064565039106-ixM9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAR-VqcBI2WVhLSf-dcz1wsslwv9rVp1vYE" target="_blank">Let’s continue the conversation in the comments</a>!
+
+# Resource
+- <a href="https://chenkianwee.github.io/gis4design" target="_blank">GIS4Design user manual</a>
