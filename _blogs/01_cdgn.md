@@ -1,7 +1,7 @@
 ---
 title: "Why Computational Designers Should Develop Open-Source Workflows"
 date: 2025-02-19T00:00:00-04:00
-weight: 2
+weight: 3
 ---
 Computational designers are architect/engineers who can program. They have domain expertise while possessing the computer skills to develop new workflows to support efficient project delivery.
 
