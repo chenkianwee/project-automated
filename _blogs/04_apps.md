@@ -5,6 +5,10 @@ weight: 1
 ---
 The use of Python Beeware and Pyscript to develop applications for sharing your Python scripts to non-programmers.  
 
+10 mins read\
+Written by Kian Wee Chen\
+Published on Aug 11th 2025
+
 # Sharing Your Python Scripts is Difficult
 Have you ever had this similar experience? I wrote a Python script to streamline a task in the project. It is quick and dirty and pieced together from various third-party Python libraries. The script might not work outside of this project context, but it worked for this particular task for this project for now. It will ease the project workload if this script was available to the team. However, the script kind of only works on my computer and it is a stretch to ask my colleagues who have not wrote codes before to setup their computer to execute the script. In the end, the script was used only by me, some times, and everyone else either avoid the task or still did it manually. I have documented an experience of similar nature <a href="https://www.itcon.org/paper/2022/49" target="_blank">working with a sculpture artist in a paper here</a>. If only there was a quick way to package the script into a simple Graphic User Interface (GUI) for internal deployment. I recently gave  <a href="https://beeware.org/" target="_blank">Beeware</a> and <a href="https://pyscript.net/" target="_blank">Pyscript</a> a go and I think they are sufficiently matured to resolve the issue I had described above.
 
