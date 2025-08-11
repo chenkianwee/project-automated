@@ -1,7 +1,7 @@
 ---
 title: "Domain Expertise, Models and Simulation Programs: How to Use Building Performance Simulation in Architectural Design"
 date: 2025-05-08T00:00:00-04:00
-weight: 2
+weight: 3
 ---
 Domain expertise is having the knowledge of the physical system we want to model. The model is an abstraction of the physical system and the simulation program executes calculations on the model to predict or explain the system’s behavior.
 

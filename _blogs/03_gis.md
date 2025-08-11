@@ -1,7 +1,7 @@
 ---
 title: "Southeast Asia Building (SEAB) Magazine Inteview on the Use of GIS in Architectural Design"
 date: 2025-05-30T00:00:00-04:00
-weight: 1
+weight: 2
 ---
 My interview with SEAB about the potential advantages of using GIS in architectural design. You can read the full issue <a href="https://dxfpracgmlczp.cloudfront.net/2025/05/1747122419585_SEAB%20MayJune%202025.pdf" target="_blank">here</a>.  
 
